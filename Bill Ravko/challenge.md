@@ -1,5 +1,5 @@
 resource "spaceship_crew_member" "elena_kim" {
   name        = "Bill Ravko"
-  experience  = "15 years"
+  experience  = "16 years"
   specialty   = "Space Medicine"
 }
