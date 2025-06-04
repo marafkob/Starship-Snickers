@@ -3,6 +3,7 @@ resource "azurerm_resource_group" "Bill" {
   location = "West Europe"
   tags = {
     created-by: "Bill"
+    owner: "bill.ravko@gmail.com"
   }
 }
 
